@@ -1,5 +1,7 @@
+!! Change your API KEY in `WeatherManager.swift` on line 19. at the end of string.
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
+![Showcase](https://raw.githubusercontent.com/qNecro/Clima/main/preview.png)
 
 #  Clima
 
